@@ -15,9 +15,6 @@
 body { 
     font-family: "Roboto", sans-serif; 
 } 
-.logo {
-    font-family: "Raleway", sans-serif;
-}
 
 .list {
     list-style: none;
@@ -64,7 +61,7 @@ a {
     font-family: "Raleway",sans-serif;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1,19;
+    line-height: 1.19;
     letter-spacing: 0.03em;
 
     color: var(--footer-logo);
@@ -95,7 +92,7 @@ a {
 .hero-title {
     font-weight: 900;
     font-size: 44px;
-    line-height: 1,36;
+    line-height: 1.36;
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
@@ -104,10 +101,9 @@ a {
 
 .hero-btn {
     font-family: inherit;
-    font-style: normal;
     font-weight: 700;
     font-size: 16px;
-    line-height: 1,87;
+    line-height: 1.87;
     display: flex;
     align-items: center;
     text-align: center;
@@ -137,7 +133,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 
 .feature-text {
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
     letter-spacing: 0.03em;
 
     color: var(--main-text-color);
@@ -145,10 +141,9 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 /*-------------------ABOUT-------------------*/
 
 .about-title {
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1,16;
+    line-height: 1.16;
     letter-spacing: 0.03em;
     color: var(--first-title-color);
 }
@@ -157,20 +152,20 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 .team-main-title { 
     font-weight: 700;
     font-size: 36px;
-    line-height: 1,16;
+    line-height: 1.16;
     letter-spacing: 0.03em;
     color: var(--first-title-color);
 }
 .team-title {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,18;
+    line-height: 1.18;
     letter-spacing: 0.03em;
     color: var(--first-title-color);
 }
 .team-text {
     font-size: 16px;
-    line-height: 1,18;
+    line-height: 1.18;
     letter-spacing: 0.03em;
     color: var(--main-text-color);
 }
@@ -180,7 +175,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,62;
+    line-height: 1.62;
     text-align: center;
     letter-spacing: 0.03em;
 
@@ -205,9 +200,8 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
 .projects-text {
-    font-weight: 400;
     font-size: 16px;
-    line-height: 1,87;
+    line-height: 1.87;
     letter-spacing: 0.03em;
     color: var(--main-text-color);
 }
@@ -223,7 +217,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1,19;
+    line-height: 1.19;
     letter-spacing: 0.03em;
 
     color: var(--footer-logo);
@@ -237,7 +231,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
     letter-spacing: 0.03em;
 
     color: rgba(255, 255, 255, 0.6);
